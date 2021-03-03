@@ -1,0 +1,41 @@
+.h1{
+    font-family: 'DotGothic16', sans-serif;
+}
+.titulo{
+    text-align: center;
+    color: yellow;
+    background-color: lightblue;
+}
+.izquierda{
+   clear: right;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.derecha{
+    clear: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: salmon;
+
+}   
+.centro{
+    margin-bottom: 10px;
+  margin-left: 550px;
+clear: both;
+}
+.tres{
+    text-align: right;
+    margin-right: 80px;
+    background-color: salmon;
+}
+.uno{
+    text-align: left;
+    margin-left: 80px;
+    background-color: red;
+}
+.dos{
+    text-align: center;
+    margin-right: 220px;
+    background-color: yellow;
+
+}
